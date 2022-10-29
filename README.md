@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Jem
 - 🛁 CS student at the University of Bath
 - 🤖 I love automating things and solving problems with code
-- 📄 You can find more of my older work at [@figurativepaper](https://replit.com/@figurativepaper) on replit
+- 🔒 Passionate about digital privacy, UX/UI and efficient code
 
 <!---
 jemclift/jemclift is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
