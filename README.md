@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Jem
 - 🛁 CS student at the University of Bath
-- 🤖 I love automating things and solving problems with code
+- 🤖 I love automating my workflow and solving problems with computation
 - 🔒 Passionate about digital privacy, UX/UI and efficient code
 
 <!---
